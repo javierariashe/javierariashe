@@ -5,7 +5,7 @@
 - Enjoy working on different projects and learning.
 - Interested on competitive programming, web and videogames development.
 - Currently learning React and web development.
-- I like listening to music and watch sports.
+- In my free time, I enjoy listening to music and watching sports.
 
 ## Contact Me
 - Email: [javierariashe@gmail.com](mailto:javierariashe@gmail.com)
