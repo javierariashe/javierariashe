@@ -1,4 +1,10 @@
-## Hi there 👋
+## Javier Arias Hernández 
+
+- I'm 20 years old from Mexico City. 
+- Currently studing Computer Engineering at UNAM (Universidad Nacional Autónoma de México)
+- Enjoy working on different projects and learning.
+- Interested on web and videogames development.
+- I like listening to music and watch sports.
 
 <!--
 **jakergp/jakergp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
