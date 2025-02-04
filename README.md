@@ -4,7 +4,6 @@
 - Currently studing Computer Engineering at UNAM (Universidad Nacional Autónoma de México)
 - Enjoy working on different projects and learning.
 - Interested on competitive programming, web and videogames development.
-- Currently learning React and web development.
 - In my free time, I enjoy listening to music and watching sports.
 
 ## Contact Me
