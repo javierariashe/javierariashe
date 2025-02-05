@@ -9,7 +9,7 @@
 ## Contact Me
 - Email: [javierariashe@gmail.com](mailto:javierariashe@gmail.com)
 - LinkedIn: [Javier Arias](https://www.linkedin.com/in/javier-arias-hern%C3%A1ndez-233335315/)
-- GitHub: [jakergp](https://github.com/jakergp)
+- GitHub: [javierariashe](https://github.com/javierariashe)
 
 Some of the projects I've worked on can be found here on GitHub.
 
