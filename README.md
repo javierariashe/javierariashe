@@ -11,8 +11,6 @@
 - LinkedIn: [Javier Arias](https://www.linkedin.com/in/javier-arias-hern%C3%A1ndez-233335315/)
 - GitHub: [javierariashe](https://github.com/javierariashe)
 
-Some of the projects I've worked on can be found here on GitHub.
-
 <!--
 **jakergp/jakergp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
