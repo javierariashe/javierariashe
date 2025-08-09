@@ -2,9 +2,8 @@
 
 - I'm 20 years old from Mexico City. 
 - Currently studing Computer Engineering at UNAM (Universidad Nacional Autónoma de México)
-- Enjoy working on different projects and learning.
-- Interested on competitive programming, web and videogames development.
-- In my free time, I enjoy listening to music and watching sports.
+- Enjoy working on different software projects and learning.
+- Interested on competitive programming, web and game development.
 
 ## Contact Me
 - Email: [javierariashe@gmail.com](mailto:javierariashe@gmail.com)
