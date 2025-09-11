@@ -1,9 +1,8 @@
 ## Javier Arias Hernández 
 
-- I'm 20 years old from Mexico City. 
 - Currently studing Computer Engineering at UNAM (Universidad Nacional Autónoma de México)
 - Enjoy working on different software projects and learning.
-- Interested on competitive programming, web and game development.
+- Interested on competitive programming, web development and infrastructure.
 
 ## Contact Me
 - Email: [javierariashe@gmail.com](mailto:javierariashe@gmail.com)
