@@ -7,7 +7,6 @@
 ## Contact Me
 - Email: [javierariashe@gmail.com](mailto:javierariashe@gmail.com)
 - LinkedIn: [Javier Arias](https://www.linkedin.com/in/javier-arias-hern%C3%A1ndez-233335315/)
-- GitHub: [javierariashe](https://github.com/javierariashe)
 
 <!--
 **jakergp/jakergp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
